@@ -28,6 +28,8 @@ Repository Structure
 
 Mohan.ipynb
 
+https://github.com/Mohan-Mj2312/Machine-Learning.git
+
 /notebooks: Jupyter notebook with full experiment code
 
 /figures: All training curves and accuracy plots
